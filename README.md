@@ -60,7 +60,7 @@ For more, see my [personal website](https://dc-vu.github.io).
 ## 🗣️ Conferences
 
 - IEEE ICCAIS 2023 – Hanoi, Vietnam
-- ATC 2024 – Ho Chi Minh City, Vietnam
+- IEEE ATC 2024 – Ho Chi Minh City, Vietnam
 - [Full list on my website](https://dc-vu.github.io)
 
 ---
